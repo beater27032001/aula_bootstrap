@@ -8,3 +8,14 @@
 > ✨ Preview:
 
 <br>
+
+![Preview do projeto](/Preview/Preview.png)
+
+<br>
+
+> 🛠️ Ferramentas:
+
+- HTML;
+- CSS;
+- BOOTSTRAP
+- Git e GitHub.
