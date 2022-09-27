@@ -18,4 +18,4 @@
 - HTML;
 - CSS;
 - BOOTSTRAP
-- Git e GitHub.
+- GIT e GITHUB.
